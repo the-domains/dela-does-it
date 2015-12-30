@@ -1,7 +1,7 @@
 name: Dela does it
 favicon: null
-layout_spectrum: 0.18366984790191054
-typography_spectrum: 0.9390609685797244
+layout_spectrum: 0.49447
+typography_spectrum: 0.50263
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#c2c2c2'
+    - '#a78770'
+    - '#241b14'
+    - '#ffffff'
+    - '#9d2100'
   brandStrength: 0.42873887973837554
   lightness: 0.37562003917992115
   saturation: 0.6475011000875384
