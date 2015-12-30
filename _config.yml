@@ -1,0 +1,28 @@
+name: Dela does it
+favicon: null
+layout_spectrum: 0.18366984790191054
+typography_spectrum: 0.9390609685797244
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.42873887973837554
+  lightness: 0.37562003917992115
+  saturation: 0.6475011000875384
+  rhythmicContrast: 0.7160841468721628
+purpose: []
